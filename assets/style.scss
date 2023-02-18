@@ -25,7 +25,7 @@
                 
                 header {
                     padding-top: 32px;
-                    background: url(/assets/img/fon.jpg)no-repeat;
+                    background: url(..//img/fon.png)no-repeat;
                     background-size: cover;
                     padding-bottom: 40px;
                     .header__display-flex {
@@ -110,7 +110,7 @@
                     justify-content: space-between;
                     padding-top: 96px;
                     .photo {
-                        background: url(/assets/img/fruit.png)no-repeat;
+                        background: url(../img/fruit.png)no-repeat;
                         background-size: cover;
                         width: 282px;
                         height: 240px;
@@ -130,7 +130,7 @@
                         }
                     }
                     .photo-2 {
-                        background: url(/assets/img/pet.png)no-repeat;
+                        background: url(../img/pet.png)no-repeat;
                         background-size: cover;
                         width: 282px;
                         height: 240px;
@@ -150,7 +150,7 @@
                         }
                     }
                     .photo-3 {
-                        background: url(/assets/img/flowers.png)no-repeat;
+                        background: url(../img/flowers.png)no-repeat;
                         background-size: cover;
                         width: 282px;
                         height: 240px;
@@ -170,7 +170,7 @@
                         }
                     }
                     .photo-4 {
-                        background: url(/assets/img/drink.png)no-repeat;
+                        background: url(../img/drink.png)no-repeat;
                         background-size: cover;
                         width: 282px;
                         height: 240px;
@@ -315,7 +315,7 @@
                         }
                     }
                     .block__photo-now {
-                        background: url(/assets/img/photo_now-2.png)no-repeat;
+                        background: url(../img/photo_now-2.png)no-repeat;
                         width: 1200px;
                         height: 304px;
                         text-align: center;
